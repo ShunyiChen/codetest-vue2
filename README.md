@@ -1,6 +1,13 @@
 # codetest-vue2
 
+## Screenshots
+
+![image] https://github.com/ShunyiChen/codetest-vue2/blob/main/screenshot1.png
+
+![image] https://github.com/ShunyiChen/codetest-vue2/blob/main/screenshot2.png
+
 ## Project setup
+
 ```
 yarn install
 ```
