@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![image] https://github.com/ShunyiChen/codetest-vue2/blob/main/screenshot1.png
+![image](screenshot1.png)
 
-![image] https://github.com/ShunyiChen/codetest-vue2/blob/main/screenshot2.png
+![image](screenshot2.png)
 
 ## Project setup
 
