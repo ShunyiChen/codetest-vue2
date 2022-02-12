@@ -10,7 +10,7 @@ git rebase demo - develop
 这是lin又一次更改
 
 lin的终极更改
-
+ 
  
 
 lin的终极更改2
@@ -20,6 +20,10 @@ lin的终极更改3 (冲突解决了3)
 
  
 lin的终极更改2
+
+ 
+ 
+lin的终极更改2 (冲突解决了2)
 
  
 ## Screenshots
