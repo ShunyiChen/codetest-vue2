@@ -11,11 +11,13 @@ git rebase demo - develop
 
 lin的终极更改
 
+
 lin的终极更改2
 
 
-lin的终极更改3
+lin的终极更改3 (冲突解决了3)
 
+ 
 ## Screenshots
 
 ![image](screenshot1.png)
