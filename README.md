@@ -5,6 +5,8 @@
 
 git rebase demo - develop
 
+这是lin
+
 ## Screenshots
 
 ![image](screenshot1.png)
