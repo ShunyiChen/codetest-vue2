@@ -84,9 +84,9 @@
                   Menu management</router-link></el-menu-item>
                 <el-menu-item index="2-5">
                   <router-link active-class="active" :to="{
-                    name:'ddmgt'
+                    name:'dashboardmgt'
                   }">
-                  Data dictionary management</router-link></el-menu-item>
+                  Dashboard management</router-link></el-menu-item>
               </el-menu-item-group>
               
             </el-submenu>

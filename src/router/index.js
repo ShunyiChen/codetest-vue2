@@ -6,6 +6,8 @@ import Dashboard from '../views/dashboard/index.vue'
 import RoleManagement from '../views/rolemgt/index.vue'
 import PermissionManagement from '../views/permissionmgt/index.vue'
 import UserManagement from '../views/usermgt/index.vue'
+import MenuManagement from '../views/menumgt/index.vue'
+import DashboardManagement from '../views/dashboardmgt/index.vue'
 import SignIn from '../views/signin/index.vue'
 
 export default new VueRouter({
@@ -35,6 +37,17 @@ export default new VueRouter({
                     path:'usermgt',
                     component:UserManagement
                 },
+                {
+                    name:'menumgt',
+                    path:'menumgt',
+                    component:MenuManagement
+                },
+                {
+                    name:'dashboardmgt',
+                    path:'dashboardmgt',
+                    component:DashboardManagement
+                },
+                
             ]
         },
         {
